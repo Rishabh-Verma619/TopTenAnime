@@ -41,7 +41,7 @@ p {
 
 .nav-card {
     padding: 0%;
-    margin-top: 0px !important;
+    
 }
 
 .navbar#hidden-nav {
@@ -64,7 +64,7 @@ hr {
 
 .card {
     background-color: rgb(237, 245, 252);
-    margin-top: 1%;
+    margin-top: 0%;
 }
 
 .col-md-10 h3 {
